@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "hershit-shukla.github.io",
+			"path": "../../../Documents/Portfolio/hershit-shukla.github.io"
+		},
+		{
+			"name": "DevFolio",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DevFolio",
+		"gitdoc.enabled": true
+	}
+}
